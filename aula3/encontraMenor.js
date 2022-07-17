@@ -36,3 +36,5 @@ const listaLivros = require('./array');
     }
     console.log(devideNoPivo(listaLivros))
 // console.log(encontraMenor(listaLivros[2],listaLivros));
+
+module.exports = trocaLugar;
